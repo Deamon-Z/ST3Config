@@ -1,0 +1,11 @@
+[   
+    { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+    //chrome
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe",
+                "extensions":".*"
+            }
+     }
+]
